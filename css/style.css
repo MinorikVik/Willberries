@@ -107,7 +107,7 @@ body {
     padding-bottom: 80px;
 }
 .card-1 {
-    background: #E2E0DF url('/img/Image-1.jpg') no-repeat top right;
+    background: #E2E0DF url('./img/Image-1.jpg') no-repeat top right;
     background-size: cover;
 }
 .card-title {
@@ -140,7 +140,7 @@ body {
 
 }
 .card-2 {
-    background: #000 url('/img/image-2.jpg') no-repeat top right;
+    background: #000 url('./img/image-2.jpg') no-repeat top right;
     background-size: cover;
 }
 .text-light {
@@ -148,13 +148,13 @@ body {
 }
 .card-3 {
     padding-top: 35px;
-    background: #CCD5E6 url('/img/image-3.png') no-repeat top right 30%;
+    background: #CCD5E6 url('./img/image-3.png') no-repeat top right 30%;
     background-size: contain;
 }
 .card-4 {
     padding-top: 35px;
     padding-left: 25px;
-    background: #FF4F52 url('/img/image-4.png') no-repeat top right;
+    background: #FF4F52 url('./img/image-4.png') no-repeat top right;
     background-size: contain;
 }
 .text-pink {
